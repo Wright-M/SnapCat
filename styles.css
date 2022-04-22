@@ -136,7 +136,7 @@ p {
   }
 
   .title-image {
-    transform: rotate(0);
+    height: 250px ;
   }
 }
 
