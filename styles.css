@@ -134,7 +134,7 @@ p {
   }
 
   .title-image {
-    height: 250px ;
+    display:none
   }
 }
 
